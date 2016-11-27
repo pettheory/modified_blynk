@@ -12,7 +12,7 @@
 #define BlynkApiParticle_h
 
 #include "BlynkApi.h"
-#include "application.h"
+//#include "application.h"
 
 template<class Proto>
 void BlynkApi<Proto>::Init()
